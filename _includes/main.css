@@ -8,6 +8,10 @@ body {
     left: 0;
     margin: 0;
 }
+#main {
+  background-color: rgba(0, 0, 0, 0.5);
+  height: 100%;
+}
 #fullscreen {
   top: 0;
   left: 0;

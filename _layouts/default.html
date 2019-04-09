@@ -1,7 +1,9 @@
 <!DOCTYPE html>
 <html>
     <head>
+        {% if site.google_analytics and jekyll.environment == 'production' %}
         {% include tracking.html %}
+        {% endif %}
         {% include head.html %}
         <style type="text/css">
           {% include main.css %}

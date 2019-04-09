@@ -1,6 +1,3 @@
-# Theme
-remote_theme: 'epidrome/cover-card'
-
 # Title and tag line
 title: 'Suhaib Khan'
 description: 'I build things (mostly software)'
@@ -22,9 +19,8 @@ email: 'suheb.work@gmail.com'
 
 social-links-order: [github, facebook, twitter, instagram, tumblr, pinterest, linkedin, youtube, vk, weibo, dribbble, messenger, blog, email]
 
-# Advanced settings
-plugins:
-  - jekyll-remote-theme
+# Analytics
+google_analytics: 'UA-109241544-1'
 
 # Yaml manifest of supported social links
 # Requirements:

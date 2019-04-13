@@ -1,6 +1,10 @@
 # Title and tag line
 title: 'Suhaib Khan'
 description: 'I build things (mostly software)'
+author:
+  picture: avatar.jpg
+  twitter: iamsuheb
+
 
 # Images
 avatar: 'avatar.jpg'
@@ -21,6 +25,10 @@ social-links-order: [github, facebook, twitter, instagram, tumblr, pinterest, li
 
 # Analytics
 google_analytics: 'UA-109241544-1'
+
+# Plugins
+plugins:
+  - jekyll-seo-tag
 
 # Yaml manifest of supported social links
 # Requirements:

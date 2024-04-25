@@ -12,13 +12,11 @@ background: 'background.jpg'
 favicon: 'favicon.ico'
 
 # Online profiles
-facebook: 'suheb.in'
 twitter: 'iamsuheb'
 linkedin: 'suhebk'
-instagram: 'suheb.in'
 github: 'suheb'
 stackoverflow: '2179380/suheb'
-blog: 'suheb.in/blog'
+blog: 'suhaibkhan.com/blog'
 email: 'suheb.work@gmail.com'
 
 social-links-order: [github, facebook, twitter, instagram, tumblr, pinterest, linkedin, youtube, vk, weibo, dribbble, messenger, blog, email]
